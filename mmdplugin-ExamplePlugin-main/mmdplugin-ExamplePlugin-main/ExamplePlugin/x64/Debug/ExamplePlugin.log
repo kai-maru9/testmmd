@@ -1,0 +1,8 @@
+﻿  ExamplePlugin.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\shlwapi.h(1781,1): warning C4459: 'a' を宣言すると、グローバル宣言が隠蔽されます
+  (ソース ファイル 'ExamplePlugin.cpp' をコンパイルしています)
+      C:\Users\yamam\Downloads\mmdplugin-ExamplePlugin-main\mmdplugin-ExamplePlugin-main\lib\mmd_plugin.h(854,24):
+      'mmp::a' の宣言を確認してください
+  
+  ExamplePlugin.vcxproj -> C:\Users\yamam\Downloads\mmdplugin-ExamplePlugin-main\mmdplugin-ExamplePlugin-main\MikuMikuDance\Plugin\ExamplePlugin\ExamplePlugin.dll
+          1 個のファイルをコピーしました。
